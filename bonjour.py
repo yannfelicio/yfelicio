@@ -1,2 +1,4 @@
 print("Voici un exemple")
-input("Appuyer sur un touche")
+print("Première semestre")
+print("Bonjour HEG")
+input("partir")
